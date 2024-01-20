@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felix Pepito</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=miyamura" alt="miyamura" /></a> </p>
-</a> </p>
+<
 
 - 🔭 I’m currently working on **Background Generator**
 
